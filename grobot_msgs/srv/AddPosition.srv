@@ -1,0 +1,8 @@
+# Service used to save all positions
+
+string position_id
+string position_name
+---
+bool result
+float32 x
+float32 y

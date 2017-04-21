@@ -1,0 +1,5 @@
+# Service used to rename a given map.
+
+string position_id
+string position_name
+---
