@@ -1,0 +1,16 @@
+# Service used to save all positions
+
+---
+bool result
+
+# x of this local.
+float32 local_x  
+
+# y of this local.
+float32 local_y  
+
+# z of this local.
+float32 local_z  
+
+# w of this local.
+float32 local_w  

@@ -1,0 +1,4 @@
+# Service used to delete a given position
+
+string position_id
+---
