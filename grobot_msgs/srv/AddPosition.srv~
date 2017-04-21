@@ -1,6 +1,0 @@
-# Service used to save all positions
-
-string position_id
-string position_name
----
-bool result

@@ -1,5 +1,0 @@
-# Service used to rename a given position.
-
-string position_id
-string position_name
----
